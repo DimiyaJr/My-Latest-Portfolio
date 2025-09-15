@@ -50,7 +50,7 @@ const Contact = () => {
   };
 
   const contactInfo = [
-    { icon: Phone, label: 'Phone', value: '+94715159969', href: 'tel:+94715159969', color: 'text-purple-400' },
+    { icon: Phone, label: 'Phone', value: '+94 71 515 9969', href: 'tel:+94715159969', color: 'text-purple-400' },
     { icon: Mail, label: 'Email', value: 'dimanrandisa@gmail.com', href: 'mailto:dimanrandisa@gmail.com', color: 'text-cyan-400' },
     { icon: MapPin, label: 'Location', value: 'Athurugiriya', href: '#', color: 'text-pink-400' }
   ];
